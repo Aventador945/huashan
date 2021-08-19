@@ -1,1 +1,2 @@
 this is good.txt  // create by master yuebuqun
+ok, I know  // edit by linghuchong
