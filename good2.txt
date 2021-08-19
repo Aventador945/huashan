@@ -1,0 +1,2 @@
+good.txt 是令狐冲/ray1024byte 用 ssh 认证的方式提交的
+现在岳不群/Aventador945 使用 http 认证的方式提交 good2.txt  // edit by yuebuqun
