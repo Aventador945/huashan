@@ -1,2 +1,4 @@
 this is good.txt  // create by master yuebuqun
 ok, I know  // edit by linghuchong
+
+添加一行: 1
